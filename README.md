@@ -28,7 +28,7 @@
 ## 🚀 Установка
 
 ```bash
-git clone https://gitverse.ru/Buse/the_project
+git clone https://github.com/Buse86/vibe_project
 cd src
 
 python -m venv venv
