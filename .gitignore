@@ -1,0 +1,54 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Логи и системные файлы
+*.log
+.DS_Store
+Thumbs.db
+
+# Кэш Hugging Face (ОЧЕНЬ ВАЖНО — модели весят гигабайты!)
+~/.cache/huggingface/
+.cache/huggingface/
+.huggingface/
+
+# Локальные файлы данных и вывода (не коммитим учебные материалы и резюме)
+*.txt
+*.pdf
+*.docx
+*.md
+!test_en.txt
+!test_ru.txt
+!test_de.txt
+
+# Конфигурация IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Окружение и секреты
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Мусор от ОС
+*.tmp
+*~
