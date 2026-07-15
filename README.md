@@ -1,5 +1,3 @@
-Конечно! Вот финальная, исправленная и полностью соответствующая критериям версия файла **`README.md`**:
-
 ```markdown
 # 🌍 Multilingual Learning Material Summarizer
 
